@@ -1,0 +1,13 @@
+.enter-site {
+    margin: 0 0 40px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+@media screen and (max-width: 800px) {
+    .enter-site {
+        margin: 0 20px 40px 20px;
+    }
+}
